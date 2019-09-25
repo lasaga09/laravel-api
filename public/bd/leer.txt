@@ -1,0 +1,1 @@
+crear una bd con el nombre de apirest y copiar y pegar y ejecutar el script apirest.sql
